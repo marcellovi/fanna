@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Ultrastore were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://vendas.bigbits.com.br
+Data file = /home/bigbitscom/vendas/wp-content/themes/ultrastore/inc/demo/dummy-data.xml
+Widget file = /home/bigbitscom/vendas/wp-content/themes/ultrastore/inc/demo/widgets.wie
+Customizer file = /home/bigbitscom/vendas/wp-content/themes/ultrastore/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample_products.csv" (Media)
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Primary : 
+
+Search - No Title - Imported
+&raquo; Social Icons - Follow Us - Imported
+&raquo; Recent Posts - Recent Posts - Imported
+&raquo; Tags Cloud - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Product Search - No Title - Imported
+Active Product Filters - Active filters - Imported
+Product Categories - Product categories - Imported
+Filter Products by Price - No Title - Imported
+Filter Products by Attribute - Filter By Gender - Imported
+Filter Products by Attribute - Filter By Color - Imported
+Filter Products by Attribute - Filter By Size - Imported
+Product Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

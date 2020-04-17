@@ -1,0 +1,385 @@
+# Copyright (C) 2018 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-25 13:39:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: includes/class-wc-ppp-brasil-gateway.php:32
+msgid "PayPal Plus Brasil"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:33
+msgid ""
+"Solução PayPal para pagamentos transparentes aonde utiliza-se apenas o "
+"Cartão de Crédito."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:232
+msgid "Habilitar/Desabilitar"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:234
+#: includes/class-wc-ppp-brasil-gateway.php:270
+msgid "Habilitar"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:238
+msgid "Nome de exibição"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:241
+msgid "Exemplo: (Parcelado em até 12x)"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:242
+msgid "Será exibido no checkout: Cartão de Crédito (Parcelado em até 12x)"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:243
+msgid ""
+"Por padrão a solução do PayPal Plus é exibida como “Cartão de Crédito”, "
+"utilize esta opção para definir um texto adicional como parcelamento ou "
+"descontos."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:246
+msgid "Modo"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:249
+msgid "Produção"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:250
+msgid "Sandbox"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:252
+msgid ""
+"Utilize esta opção para alternar entre os modos Sandbox e Produção. Sandbox "
+"é utilizado para testes e Produção para compras reais."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:255
+msgid "Client ID"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:258
+msgid ""
+"Para gerar o Client ID acesse <a href=\"%s\" target=\"_blank\">aqui</a> e "
+"procure pela seção “REST API apps”."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:262
+msgid "Secret ID"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:265
+msgid ""
+"Para gerar o Secret ID acesse <a href=\"%s\" target=\"_blank\">aqui</a> e "
+"procure pela seção “REST API apps”."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:268
+msgid "Modo depuração"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:271
+msgid "Habilite este modo para depurar a aplicação em caso de homologação ou erros."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:272
+msgid "Os logs serão salvos no caminho: %s."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:275
+msgid "Configurações avançadas"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:277
+msgid "Utilize estas opções para customizar a experiência da solução."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:280
+msgid "Altura do formulário"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:283
+msgid "px"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:284
+msgid ""
+"Utilize esta opção para definir uma altura máxima do formulário de cartão "
+"de crédito (será considerado um valor em pixels). Será aceito um valor em "
+"pixels entre 400 - 550."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:287
+msgid "Prefixo de Invoice ID"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:290
+msgid ""
+"Adicione um prefixo as transações feitas com PayPal Plus na sua loja. Isso "
+"pode auxiliar caso trabalhe com a mesma conta PayPal em mais de um site."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:301
+msgid "Status do Sistema &gt; Logs"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:322
+msgid ""
+"Número de tentativas excedidas, por favor tente novamente. Se o erro "
+"persistir entre em contato."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:332
+#: includes/class-wc-ppp-brasil-gateway.php:380
+#: includes/class-wc-ppp-brasil-gateway.php:388
+#: includes/class-wc-ppp-brasil-gateway.php:936
+msgid ""
+"Ocorreu um erro inesperado, por favor tente novamente. Se o erro persistir "
+"entre em contato."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:338
+msgid ""
+"Não foi possível processar o seu pagamento, tente novamente ou entre em "
+"contato contato com o PayPal (0800-047-4482)."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:341
+msgid "Por favor revise as informações inseridas do cartão de crédito."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:356
+msgid "You are not allowed to do that."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:364
+msgid "Invalid payment ID."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:416
+msgid "O pagamento está em revisão pelo PayPal."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:442
+#: includes/class-wc-ppp-brasil-gateway.php:448
+#: includes/class-wc-ppp-brasil-gateway.php:465
+msgid ""
+"Ocorreu um erro inesperado, por favor tente novamente. Se o erro persistir "
+"entre em contato. Código: %s."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:452
+msgid "Já existe um pagamento para este pedido."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:455
+msgid "O seu pagamento não foi aprovado, por favor tente novamente."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:491
+msgid "O reembolso não pode ser menor que %s."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:550
+msgid "Parece que você não tem um pedido para realizar o reembolso. Código: #%s"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:583
+msgid "Pedido #%s realizado na loja %s"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:812
+msgid "Desconto"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:954
+msgid "Nome inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:959
+msgid "Sobrenome inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:964
+msgid "Telefone inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:968
+msgid "Endereço inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:972
+msgid "Cidade inválida"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:976
+msgid "Estado inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:980
+msgid "País inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:984
+msgid "CEP inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:989
+msgid "Email inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:997
+msgid "Número inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:1002
+msgid "Tipo de pessoa inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:1007
+msgid "CPF inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:1012
+msgid "CNPJ inválido"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:1039
+msgid "Verifique os dados informados e tente novamente"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:1078
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:1329
+msgid "Cartão de Crédito"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-gateway.php:1329
+msgid "Credit Card"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-metabox.php:40
+msgid "PayPal Plus"
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-webhooks-handler.php:63
+msgid "PayPal Plus: Transação paga."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-webhooks-handler.php:80
+msgid "PayPal Plus: A transação foi rejeitada pela empresa de cartão ou por fraude."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-webhooks-handler.php:100
+msgid "PayPal Plus: A transação foi reembolsada."
+msgstr ""
+
+#: includes/class-wc-ppp-brasil-webhooks-handler.php:114
+msgid "PayPal Plus: A transação foi revertida."
+msgstr ""
+
+#: includes/views/html-admin-options.php:11
+msgid ""
+"O PayPal Plus não está ativo. Não foi possível encontrar nenhum plugin com "
+"o suporte de CPF/CNPJ, por favor visite a <a href=\"%s\" "
+"target=\"_blank\">página oficial</a> do plugin para mais informações."
+msgstr ""
+
+#: includes/views/html-admin-options.php:18
+msgid ""
+"Você está utilizando USD em sua loja. Desta forma você só poderá receber "
+"pagamento de contas não-brasileiras."
+msgstr ""
+
+#: includes/views/html-notice-missing-ecfb.php:17
+#: includes/views/html-notice-missing-woocommerce.php:17
+#: includes/views/html-notice-wrong-version-woocommerce.php:14
+msgid "PayPal Plus Brasil para WooCommerce"
+msgstr ""
+
+#: includes/views/html-notice-missing-ecfb.php:17
+msgid "depende da última versão do Extra Checkout Fields for Brazil para funcionar!"
+msgstr ""
+
+#: includes/views/html-notice-missing-ecfb.php:23
+msgid "Ativar Extra Checkout Fields for Brazil"
+msgstr ""
+
+#: includes/views/html-notice-missing-ecfb.php:33
+msgid "Instalar Extra Checkout Fields for Brazil"
+msgstr ""
+
+#: includes/views/html-notice-missing-woocommerce.php:17
+msgid "depende da última versão do WooCommerce para funcionar!"
+msgstr ""
+
+#: includes/views/html-notice-missing-woocommerce.php:23
+msgid "Ativar WooCommerce"
+msgstr ""
+
+#: includes/views/html-notice-missing-woocommerce.php:33
+msgid "Instalar WooCommerce"
+msgstr ""
+
+#: includes/views/html-notice-woocommerce-unavailable-currency.php:14
+msgid ""
+"<strong>PayPal Plus Brasil para WooCommerce</strong> só é compatível com as "
+"moedas %s. Verifique suas configurações <a href=\"%s\">aqui</a>."
+msgstr ""
+
+#: includes/views/html-notice-wrong-version-woocommerce.php:14
+msgid ""
+"depende da versão do WooCommerce 3.x.x para funcionar! Você está utilizando "
+"a versão %s. Por favor atualize."
+msgstr ""
+
+#: includes/views/html-order-metabox.php:31
+msgid "ID da venda:"
+msgstr ""
+
+#: includes/views/html-order-metabox.php:35
+msgid "Tarifa de venda:"
+msgstr ""
+
+#: includes/views/html-order-metabox.php:39
+msgid "Valor:"
+msgstr ""
+
+#: includes/views/html-order-metabox.php:43
+msgid "Parcelamento:"
+msgstr ""
+
+#: includes/views/html-order-metabox.php:47
+msgid "Sandbox:"
+msgstr ""
+
+#: includes/views/html-order-metabox.php:47
+msgid "sim"
+msgstr ""
+
+#: includes/views/html-order-metabox.php:50
+msgid "Detalhes:"
+msgstr ""
+
+#: includes/views/html-order-metabox.php:51
+msgid "imprimir"
+msgstr ""
+
+#: paypal-plus-brasil.php:158
+msgid "Configurações"
+msgstr ""

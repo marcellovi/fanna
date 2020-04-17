@@ -1,0 +1,1808 @@
+# Copyright (C) 2018 Theme Junkie
+# This file is distributed under the same license as the TJ Extras package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TJ Extras 1.0.2\n"
+"Report-Msgid-Bugs-To: https://beautimour.com/contact/\n"
+"POT-Creation-Date: 2018-12-05 14:00:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Beautimour\n"
+"Language-Team: Beautimour\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_"
+"x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/widgets/custom-links.php:130
+msgid "1"
+msgstr ""
+
+#: inc/widgets/custom-links.php:131
+msgid "2"
+msgstr ""
+
+#: inc/widgets/custom-links.php:132
+msgid "3"
+msgstr ""
+
+#: inc/widgets/custom-links.php:133
+msgid "4"
+msgstr ""
+
+#: inc/widgets/custom-links.php:134
+msgid "5"
+msgstr ""
+
+#: inc/widgets/custom-links.php:135
+msgid "6"
+msgstr ""
+
+#: inc/widgets/custom-links.php:136
+msgid "7"
+msgstr ""
+
+#: inc/widgets/custom-links.php:137
+msgid "8"
+msgstr ""
+
+#: inc/widgets/custom-links.php:138
+msgid "9"
+msgstr ""
+
+#: inc/widgets/custom-links.php:139
+msgid "10"
+msgstr ""
+
+#: inc/widgets/custom-links.php:140
+msgid "11"
+msgstr ""
+
+#: inc/widgets/custom-links.php:141
+msgid "12"
+msgstr ""
+
+#: inc/widgets/custom-links.php:142
+msgid "13"
+msgstr ""
+
+#: inc/widgets/custom-links.php:143
+msgid "14"
+msgstr ""
+
+#: inc/widgets/custom-links.php:144
+msgid "15"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-image.php:68
+#: ext/kirki/controls/views/image.php:40
+#: ext/kirki/field/class-kirki-field-image.php:55
+msgid "Choose image"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-image.php:69
+#: ext/kirki/controls/views/image.php:35
+#: ext/kirki/field/class-kirki-field-image.php:50
+msgid "Change image"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr ""
+
+#: ext/butterbean/inc/controls/class-control-image.php:71
+#: ext/kirki/controls/views/image.php:38
+#: ext/kirki/field/class-kirki-field-image.php:53
+msgid "No image selected"
+msgstr ""
+
+#: ext/butterbean/tmpl/control-datetime.php:46
+#. Translators: 1: month, 2: day, 3: year, 4: hour, 5: minute, 6: second.
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+msgstr ""
+
+#: ext/butterbean/tmpl/control-datetime.php:52
+#. Translators: 1: month, 2: day, 3: year.
+msgid "%1$s %2$s, %3$s"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:48
+#: inc/elementor-widgets/menu.php:203 inc/widgets/social.php:422
+msgid "Background Color"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:59
+#: ext/kirki/controls/php/class-kirki-control-base.php:132
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:408
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:62
+#: ext/kirki/controls/php/class-kirki-control-base.php:133
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:386
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:443
+#: ext/kirki/controls/views/image.php:37
+#: ext/kirki/field/class-kirki-field-image.php:52
+msgid "Remove"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:63
+#: ext/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:83
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Top"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:84
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Center"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:85
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Left Bottom"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:86
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Top"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:87
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Center"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:88
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Right Bottom"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:89
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Top"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:90
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Center"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:91
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:123
+msgid "Center Bottom"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-base.php:134
+#: ext/kirki/controls/views/image.php:36
+#: ext/kirki/field/class-kirki-field-image.php:51
+#: inc/elementor-widgets/post-alt.php:62 inc/elementor-widgets/post-alt.php:76
+#: inc/elementor-widgets/post-grid.php:62
+#: inc/elementor-widgets/post-grid.php:76
+#: inc/elementor-widgets/post-grid.php:110
+#: inc/elementor-widgets/post-list.php:62
+#: inc/elementor-widgets/post-list.php:76 inc/elementor-widgets/post.php:62
+#: inc/elementor-widgets/post.php:76 inc/metabox.php:130 inc/metabox.php:242
+#: inc/widgets/contact-info.php:288 inc/widgets/contact-info.php:326
+#: inc/widgets/tags.php:357
+msgid "Default"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-code.php:39
+msgid ""
+"Please update your WordPress installation to a version newer than 4.9 to "
+"access the code control."
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimension.php:40
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:139
+msgid "Invalid Value"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: ext/kirki/controls/php/class-kirki-control-typography.php:106
+#: inc/widgets/social.php:410
+msgid "Font Size"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:125
+msgid "Font Weight"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: ext/kirki/controls/php/class-kirki-control-typography.php:114
+msgid "Line Height"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:127
+msgid "Font Style"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: ext/kirki/controls/php/class-kirki-control-typography.php:122
+msgid "Letter Spacing"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: ext/kirki/controls/php/class-kirki-control-typography.php:130
+msgid "Word Spacing"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: ext/kirki/field/class-kirki-field-spacing.php:33
+msgid "Top"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: ext/kirki/field/class-kirki-field-spacing.php:34
+msgid "Bottom"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: ext/kirki/controls/php/class-kirki-control-typography.php:149
+#: ext/kirki/field/class-kirki-field-spacing.php:35
+#: inc/elementor-widgets/logo.php:47 inc/elementor-widgets/menu.php:47
+#: inc/elementor-widgets/search.php:47
+msgid "Left"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: ext/kirki/controls/php/class-kirki-control-typography.php:161
+#: ext/kirki/field/class-kirki-field-spacing.php:36
+#: inc/elementor-widgets/logo.php:55 inc/elementor-widgets/menu.php:55
+#: inc/elementor-widgets/search.php:55
+msgid "Right"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: ext/kirki/controls/php/class-kirki-control-typography.php:155
+#: inc/elementor-widgets/logo.php:51 inc/elementor-widgets/menu.php:51
+#: inc/elementor-widgets/search.php:51
+msgid "Center"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Size"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Spacing"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:137
+#: inc/widgets/facebook.php:174
+msgid "Width"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: inc/widgets/facebook.php:179
+msgid "Height"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:78
+msgid "row"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:87
+#. translators: %s represents the label of the row.
+msgid "Add new %s"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:122
+msgid "Select a Page"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:227
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+msgid "Limit: %s rows"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:361
+msgid "Hex Value"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:376
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:387
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:387
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:419
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:419
+#: ext/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-switch.php:52
+#: ext/kirki/field/class-kirki-field-switch.php:42
+msgid "On"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-switch.php:56
+#: ext/kirki/field/class-kirki-field-switch.php:43
+msgid "Off"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:80
+msgid "Font Family"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:81
+#: ext/kirki/controls/php/class-kirki-control-typography.php:86
+msgid "Select Font Family"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:85
+msgid "Backup Font"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:91
+msgid "Variant"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:98
+msgid "Download font-family to server instead of using the Google CDN."
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:138
+msgid "Text Align"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:143
+#: ext/kirki/controls/php/class-kirki-control-typography.php:185
+#: ext/kirki/controls/php/class-kirki-control-typography.php:201
+msgid "Inherit"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:167
+msgid "Justify"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Text Transform"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:180
+#: ext/kirki/controls/php/class-kirki-control-typography.php:196
+#: inc/widgets/social.php:387 inc/widgets/tags.php:361
+msgid "None"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/widgets/tags.php:358
+msgid "Capitalize"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:182
+#: inc/widgets/tags.php:360
+msgid "Uppercase"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:183
+#: inc/widgets/tags.php:359
+msgid "Lowercase"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:184
+#: ext/kirki/controls/php/class-kirki-control-typography.php:200
+msgid "Initial"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Text Decoration"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Underline"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:198
+msgid "Overline"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:199
+msgid "Line-Through"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:209
+msgid "Margin Top"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:217
+msgid "Margin Bottom"
+msgstr ""
+
+#: ext/kirki/controls/php/class-kirki-control-typography.php:225
+#: inc/elementor-widgets/search.php:79 inc/widgets/about-me.php:298
+#: inc/widgets/social.php:432
+msgid "Color"
+msgstr ""
+
+#: ext/kirki/controls/views/image.php:34 ext/kirki/controls/views/image.php:39
+#: ext/kirki/field/class-kirki-field-image.php:49
+#: ext/kirki/field/class-kirki-field-image.php:54
+msgid "Select image"
+msgstr ""
+
+#: ext/kirki/core/class-kirki-field.php:248
+#. translators: %s represents the field ID where the error occurs.
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: ext/kirki/core/class-kirki-field.php:257
+#: ext/kirki/core/class-kirki-field.php:267
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: ext/kirki/core/class-kirki-field.php:407
+#. translators: %1$s represents the field ID where the error occurs.
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr ""
+
+#: ext/kirki/core/class-kirki-field.php:425
+#. translators: %1$s represents the field ID where the error occurs.
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: ext/kirki/core/class-kirki-field.php:563
+#: ext/kirki/core/class-kirki-field.php:573
+#. translators: The field ID where the error occurs.
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: ext/kirki/core/class-kirki-init.php:282
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use "
+"Kirki_Util::get_variables() instead."
+msgstr ""
+
+#: ext/kirki/core/class-kirki.php:228
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: ext/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: ext/kirki/field/class-kirki-field-color.php:55
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#: ext/kirki/field/class-kirki-field-radio.php:37
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: ext/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#: ext/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#. translators: The title.
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Light 200"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Light 200 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Book 300"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Book 300 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:217
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Normal 400"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Medium 500"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:221
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:222
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Bold 700"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:226
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:227
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:229
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:230
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:231
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: ext/kirki/modules/webfonts/class-kirki-fonts.php:232
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: ext/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: inc/elementor-widgets/events.php:25 inc/elementor-widgets/events.php:45
+msgid "Events"
+msgstr ""
+
+#: inc/elementor-widgets/events.php:52
+msgid "Events Per Page"
+msgstr ""
+
+#: inc/elementor-widgets/events.php:62 inc/elementor-widgets/post-grid.php:106
+#: inc/widgets/contact-info.php:324
+msgid "Style"
+msgstr ""
+
+#: inc/elementor-widgets/events.php:66 inc/widgets/social.php:380
+msgid "Simple"
+msgstr ""
+
+#: inc/elementor-widgets/events.php:67
+msgid "List"
+msgstr ""
+
+#: inc/elementor-widgets/events.php:68
+msgid "Grid"
+msgstr ""
+
+#: inc/elementor-widgets/logo.php:20 inc/elementor-widgets/logo.php:36
+msgid "Logo"
+msgstr ""
+
+#: inc/elementor-widgets/logo.php:43 inc/elementor-widgets/menu.php:43
+#: inc/elementor-widgets/search.php:43
+msgid "Position"
+msgstr ""
+
+#: inc/elementor-widgets/logo.php:69
+msgid "Max Width"
+msgstr ""
+
+#: inc/elementor-widgets/logo.php:87
+msgid "Max Height"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:20 inc/elementor-widgets/menu.php:36
+msgid "Menu"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:72
+msgid "Menu Items"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:91 inc/elementor-widgets/menu.php:216
+msgid "Normal"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:98 inc/elementor-widgets/menu.php:129
+#: inc/elementor-widgets/menu.php:223 inc/elementor-widgets/menu.php:243
+msgid "Links Color"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:109 inc/elementor-widgets/menu.php:140
+msgid "Links Background"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:122 inc/elementor-widgets/menu.php:236
+msgid "Hover"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:155
+msgid "Padding"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:169
+msgid "Dropdowns"
+msgstr ""
+
+#: inc/elementor-widgets/menu.php:186
+msgid "Width (px)"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:20 inc/elementor-widgets/post-alt.php:40
+msgid "Post Alternate"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:47 inc/elementor-widgets/post-grid.php:47
+#: inc/elementor-widgets/post-list.php:47 inc/elementor-widgets/post.php:47
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:48 inc/elementor-widgets/post-grid.php:48
+#: inc/elementor-widgets/post-list.php:48 inc/elementor-widgets/post.php:48
+#: inc/elementor-widgets/product.php:57
+msgid "You can enter \"-1\" to display all items."
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:58 inc/elementor-widgets/post-grid.php:58
+#: inc/elementor-widgets/post-list.php:58 inc/elementor-widgets/post.php:58
+#: inc/elementor-widgets/product.php:99 inc/widgets/recent-posts.php:252
+msgid "Order"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:63 inc/elementor-widgets/post-grid.php:63
+#: inc/elementor-widgets/post-list.php:63 inc/elementor-widgets/post.php:63
+#: inc/elementor-widgets/product.php:103
+msgid "DESC"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:64 inc/elementor-widgets/post-grid.php:64
+#: inc/elementor-widgets/post-list.php:64 inc/elementor-widgets/post.php:64
+#: inc/elementor-widgets/product.php:104
+msgid "ASC"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:72 inc/elementor-widgets/post-grid.php:72
+#: inc/elementor-widgets/post-list.php:72 inc/elementor-widgets/post.php:72
+#: inc/elementor-widgets/product.php:84 inc/widgets/recent-posts.php:261
+msgid "Order By"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:77 inc/elementor-widgets/post-grid.php:77
+#: inc/elementor-widgets/post-list.php:77 inc/elementor-widgets/post.php:77
+#: inc/elementor-widgets/product.php:88 inc/widgets/recent-posts.php:267
+msgid "Date"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:78 inc/elementor-widgets/post-grid.php:78
+#: inc/elementor-widgets/post-list.php:78 inc/elementor-widgets/post.php:78
+#: inc/widgets/about-me.php:274 inc/widgets/contact-info.php:319
+#: inc/widgets/contact-info.php:354 inc/widgets/contact-info.php:378
+#: inc/widgets/contact-info.php:402 inc/widgets/contact-info.php:426
+#: inc/widgets/contact-info.php:445 inc/widgets/contact-info.php:469
+#: inc/widgets/custom-links.php:115 inc/widgets/facebook.php:162
+#: inc/widgets/flickr.php:103 inc/widgets/recent-posts.php:200
+#: inc/widgets/recent-posts.php:268 inc/widgets/social-share.php:365
+#: inc/widgets/social.php:370 inc/widgets/tags.php:261
+#: inc/widgets/video.php:112
+msgid "Title"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:79 inc/elementor-widgets/post-grid.php:79
+#: inc/elementor-widgets/post-list.php:79 inc/elementor-widgets/post.php:79
+#: inc/sidebars.php:57
+msgid "Name"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:80 inc/elementor-widgets/post-grid.php:80
+#: inc/elementor-widgets/post-list.php:80 inc/elementor-widgets/post.php:80
+#: inc/widgets/recent-posts.php:269
+msgid "Modified"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:81 inc/elementor-widgets/post-grid.php:81
+#: inc/elementor-widgets/post-list.php:81 inc/elementor-widgets/post.php:81
+#: inc/widgets/recent-posts.php:270
+msgid "Author"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:82 inc/elementor-widgets/post-grid.php:82
+#: inc/elementor-widgets/post-list.php:82 inc/elementor-widgets/post.php:82
+#: inc/elementor-widgets/product.php:90 inc/widgets/recent-posts.php:271
+msgid "Random"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:83 inc/elementor-widgets/post-grid.php:83
+#: inc/elementor-widgets/post-list.php:83 inc/elementor-widgets/post.php:83
+msgid "ID"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:84 inc/elementor-widgets/post-grid.php:84
+#: inc/elementor-widgets/post-list.php:84 inc/elementor-widgets/post.php:84
+#: inc/widgets/recent-posts.php:272
+msgid "Comment Count"
+msgstr ""
+
+#: inc/elementor-widgets/post-alt.php:85 inc/elementor-widgets/post-grid.php:85
+#: inc/elementor-widgets/post-list.php:85 inc/elementor-widgets/post.php:85
+msgid "Menu Order"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:20
+#: inc/elementor-widgets/post-grid.php:40
+msgid "Post Grid"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:93
+msgid "Columns"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:97
+msgid "Two Columns"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:98
+msgid "Three Columns"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:111
+#: inc/elementor-widgets/post-grid.php:134
+msgid "Overlay"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:119
+msgid "Pagination"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:123
+msgid "Enable"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:124
+msgid "Disable"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid.php:142
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/elementor-widgets/post-list.php:20
+#: inc/elementor-widgets/post-list.php:40
+msgid "Post List"
+msgstr ""
+
+#: inc/elementor-widgets/post.php:20 inc/elementor-widgets/post.php:40
+#: inc/widgets/recent-posts.php:213
+msgid "Post"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:25 inc/elementor-widgets/product.php:49
+msgid "Product"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:56
+msgid "Product Per Page"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:70
+msgid "Show"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:74
+msgid "All products"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:75
+msgid "Featured products"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:76
+msgid "On-sale products"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:89
+msgid "Price"
+msgstr ""
+
+#: inc/elementor-widgets/product.php:91
+msgid "Sales"
+msgstr ""
+
+#: inc/elementor-widgets/search.php:20 inc/elementor-widgets/search.php:36
+msgid "Search Icon"
+msgstr ""
+
+#: inc/elementor-widgets/search.php:71
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elementor.php:46
+msgid "TJ Elements"
+msgstr ""
+
+#: inc/functions.php:39
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/functions.php:40
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/functions.php:41
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/functions.php:42
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/functions.php:43
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/functions.php:44
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/functions.php:45
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/library.php:33 inc/library.php:50
+msgid "My Library"
+msgstr ""
+
+#: inc/library.php:56
+msgid "Template"
+msgstr ""
+
+#: inc/library.php:57
+msgid "Add New"
+msgstr ""
+
+#: inc/library.php:58 inc/library.php:60
+msgid "Add New Template"
+msgstr ""
+
+#: inc/library.php:59
+msgid "Edit Template"
+msgstr ""
+
+#: inc/library.php:61
+msgid "View Template"
+msgstr ""
+
+#: inc/library.php:62
+msgid "Search Template"
+msgstr ""
+
+#: inc/library.php:63
+msgid "No Templates Found"
+msgstr ""
+
+#: inc/library.php:64
+msgid "No Templates Found In Trash"
+msgstr ""
+
+#: inc/metabox.php:105
+msgid "Settings"
+msgstr ""
+
+#: inc/metabox.php:117
+msgid "General"
+msgstr ""
+
+#: inc/metabox.php:127
+msgid "Content Layout"
+msgstr ""
+
+#: inc/metabox.php:128
+msgid "Select your custom layout."
+msgstr ""
+
+#: inc/metabox.php:131
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox.php:132
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox.php:133
+msgid "Full Width"
+msgstr ""
+
+#: inc/metabox.php:134
+msgid "Full Width Narrow"
+msgstr ""
+
+#: inc/metabox.php:151
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox.php:152
+msgid "Select your custom sidebar."
+msgstr ""
+
+#: inc/metabox.php:167
+msgid "Header"
+msgstr ""
+
+#: inc/metabox.php:177 inc/metabox.php:203
+msgid "Select Template"
+msgstr ""
+
+#: inc/metabox.php:178 inc/metabox.php:204
+msgid "Choose a template created in Appearance > My Library."
+msgstr ""
+
+#: inc/metabox.php:193
+msgid "Footer"
+msgstr ""
+
+#: inc/metabox.php:227
+msgid "Select a Template"
+msgstr ""
+
+#: inc/sidebars.php:52 inc/sidebars.php:61
+msgid "Create Widget Area"
+msgstr ""
+
+#: inc/sidebars.php:230
+msgid "Delete"
+msgstr ""
+
+#: inc/sidebars.php:231
+msgid "Confirm"
+msgstr ""
+
+#: inc/sidebars.php:232
+msgid "Cancel"
+msgstr ""
+
+#: inc/updates.php:146
+msgid "Could not retrieve version details. Please try again."
+msgstr ""
+
+#: inc/widgets/about-me.php:57
+msgid "&raquo; About Me"
+msgstr ""
+
+#: inc/widgets/about-me.php:60
+msgid "Adds a about me widget."
+msgstr ""
+
+#: inc/widgets/about-me.php:264
+msgid "About Me"
+msgstr ""
+
+#: inc/widgets/about-me.php:266
+msgid "John Doe"
+msgstr ""
+
+#: inc/widgets/about-me.php:279
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/about-me.php:281
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/about-me.php:285
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets/about-me.php:290
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/about-me.php:295
+msgid "Social Style:"
+msgstr ""
+
+#: inc/widgets/about-me.php:299 inc/widgets/facebook.php:186
+#: inc/widgets/social.php:354 inc/widgets/social.php:377
+#: inc/widgets/twitter.php:233
+msgid "Light"
+msgstr ""
+
+#: inc/widgets/about-me.php:300 inc/widgets/facebook.php:187
+#: inc/widgets/social-share.php:374 inc/widgets/social.php:378
+#: inc/widgets/twitter.php:234
+msgid "Dark"
+msgstr ""
+
+#: inc/widgets/about-me.php:305
+msgid "Social Link Target:"
+msgstr ""
+
+#: inc/widgets/about-me.php:308 inc/widgets/contact-info.php:341
+#: inc/widgets/custom-links.php:104 inc/widgets/custom-links.php:122
+#: inc/widgets/social.php:398
+msgid "Blank"
+msgstr ""
+
+#: inc/widgets/about-me.php:309 inc/widgets/contact-info.php:340
+#: inc/widgets/custom-links.php:123 inc/widgets/social.php:399
+msgid "Self"
+msgstr ""
+
+#: inc/widgets/about-me.php:316 inc/widgets/social.php:454
+msgid "Social Links"
+msgstr ""
+
+#: inc/widgets/contact-info.php:22
+msgid "&raquo; Contact Info"
+msgstr ""
+
+#: inc/widgets/contact-info.php:25
+msgid "Adds support for contact info."
+msgstr ""
+
+#: inc/widgets/contact-info.php:218
+msgid "Skype"
+msgstr ""
+
+#: inc/widgets/contact-info.php:287
+msgid "Contact Info"
+msgstr ""
+
+#: inc/widgets/contact-info.php:292 inc/widgets/contact-info.php:346
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:293
+msgid "Street Name, FL 54785"
+msgstr ""
+
+#: inc/widgets/contact-info.php:296 inc/widgets/contact-info.php:370
+msgid "Phone:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:300 inc/widgets/contact-info.php:394
+msgid "Mobile:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:304 inc/widgets/contact-info.php:418
+msgid "Fax:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:307 inc/widgets/contact-info.php:437
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:311 inc/widgets/contact-info.php:461
+msgid "Website:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:315
+msgid "Skype Call Us"
+msgstr ""
+
+#: inc/widgets/contact-info.php:327
+msgid "Big Icons"
+msgstr ""
+
+#: inc/widgets/contact-info.php:328
+msgid "No Icons"
+msgstr ""
+
+#: inc/widgets/contact-info.php:333 inc/widgets/contact-info.php:493
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/contact-info.php:338
+msgid "Links Target"
+msgstr ""
+
+#: inc/widgets/contact-info.php:349 inc/widgets/contact-info.php:373
+#: inc/widgets/contact-info.php:397 inc/widgets/contact-info.php:421
+#: inc/widgets/contact-info.php:440 inc/widgets/contact-info.php:464
+msgid "Icon Class"
+msgstr ""
+
+#: inc/widgets/contact-info.php:359 inc/widgets/contact-info.php:383
+#: inc/widgets/contact-info.php:407 inc/widgets/contact-info.php:431
+msgid "Content"
+msgstr ""
+
+#: inc/widgets/contact-info.php:364 inc/widgets/contact-info.php:388
+#: inc/widgets/contact-info.php:412
+msgid "Link (optional)"
+msgstr ""
+
+#: inc/widgets/contact-info.php:450 inc/widgets/contact-info.php:474
+msgid "URL"
+msgstr ""
+
+#: inc/widgets/contact-info.php:455 inc/widgets/contact-info.php:479
+msgid "URL Text"
+msgstr ""
+
+#: inc/widgets/contact-info.php:485
+msgid "Skype:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:488
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/custom-links.php:22
+msgid "&raquo; Custom Links"
+msgstr ""
+
+#: inc/widgets/custom-links.php:25
+msgid "Displays custom links."
+msgstr ""
+
+#: inc/widgets/custom-links.php:102
+msgid "Useful Links"
+msgstr ""
+
+#: inc/widgets/custom-links.php:120
+msgid "Link Target:"
+msgstr ""
+
+#: inc/widgets/custom-links.php:128
+msgid "Number of Custom Links:"
+msgstr ""
+
+#: inc/widgets/facebook.php:33
+msgid "&raquo; Facebook Like Box"
+msgstr ""
+
+#: inc/widgets/facebook.php:36
+msgid "Display a Facebook Like Box to connect visitors to your Facebook Page."
+msgstr ""
+
+#: inc/widgets/facebook.php:60
+msgid ""
+"It looks like your Facebook URL is incorrectly configured. Please check it "
+"in your <a href=\"%s\">widget settings</a>."
+msgstr ""
+
+#: inc/widgets/facebook.php:167
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/facebook.php:170
+msgid "The Like Box only works with "
+msgstr ""
+
+#: inc/widgets/facebook.php:170
+msgid "Facebook Pages"
+msgstr ""
+
+#: inc/widgets/facebook.php:184
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/widgets/facebook.php:194
+msgid "Show Faces"
+msgstr ""
+
+#: inc/widgets/facebook.php:196
+msgid "Show profile photos in the plugin."
+msgstr ""
+
+#: inc/widgets/facebook.php:203
+msgid "Show Stream"
+msgstr ""
+
+#: inc/widgets/facebook.php:205
+msgid "Show the profile stream for the public profile."
+msgstr ""
+
+#: inc/widgets/facebook.php:212
+msgid "Show Border"
+msgstr ""
+
+#: inc/widgets/facebook.php:214
+msgid "Show a border around the plugin."
+msgstr ""
+
+#: inc/widgets/facebook.php:221
+msgid "Show Wall"
+msgstr ""
+
+#: inc/widgets/facebook.php:223
+msgid "Show the wall for a Places page rather than friend activity."
+msgstr ""
+
+#: inc/widgets/flickr.php:22
+msgid "&raquo; Flickr"
+msgstr ""
+
+#: inc/widgets/flickr.php:25
+msgid "Pulls in images from your flickr account."
+msgstr ""
+
+#: inc/widgets/flickr.php:57
+msgid "View stream on flickr"
+msgstr ""
+
+#: inc/widgets/flickr.php:97
+msgid "Flickr Photos"
+msgstr ""
+
+#: inc/widgets/flickr.php:108
+msgid "Flickr ID"
+msgstr ""
+
+#: inc/widgets/flickr.php:110
+msgid "Enter the url of your Flickr page on this site: idgettr.com."
+msgstr ""
+
+#: inc/widgets/flickr.php:114
+msgid "Number:"
+msgstr ""
+
+#: inc/widgets/flickr.php:116
+msgid "The maximum is 10 images."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:22
+msgid "&raquo; Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:25
+msgid "Shows a listing of your recent or random posts."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:31
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:135
+msgid "0 Comments"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:135
+msgid "1 Comment"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:135
+msgid "% Comments"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:149
+msgid "No posts found."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:205
+msgid "Number"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:210
+msgid "Post Type"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:229
+msgid "Query By Taxonomy"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:232
+msgid "No"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:245
+msgid "Terms"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:248
+msgid "Enter the term slugs to query by seperated by a \"comma\""
+msgstr ""
+
+#: inc/widgets/recent-posts.php:255
+msgid "Descending"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:256
+msgid "Ascending"
+msgstr ""
+
+#: inc/widgets/social-share.php:23
+msgid "&raquo; Social Share"
+msgstr ""
+
+#: inc/widgets/social-share.php:26
+msgid "Display social sharing buttons on your sidebar."
+msgstr ""
+
+#: inc/widgets/social-share.php:72
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/widgets/social-share.php:80
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/widgets/social-share.php:89
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/widgets/social-share.php:101
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/widgets/social-share.php:116
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/widgets/social-share.php:127
+msgid "Share on Viber"
+msgstr ""
+
+#: inc/widgets/social-share.php:156
+msgid "Share on VK"
+msgstr ""
+
+#: inc/widgets/social-share.php:164
+msgid "Share on Reddit"
+msgstr ""
+
+#: inc/widgets/social-share.php:185
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/widgets/social-share.php:198
+msgid "Share on Viadeo"
+msgstr ""
+
+#: inc/widgets/social-share.php:353
+msgid "Please share this"
+msgstr ""
+
+#: inc/widgets/social-share.php:354 inc/widgets/social-share.php:372
+msgid "Minimal"
+msgstr ""
+
+#: inc/widgets/social-share.php:370 inc/widgets/social.php:375
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/social-share.php:373 inc/widgets/social.php:379
+msgid "Colored"
+msgstr ""
+
+#: inc/widgets/social-share.php:379 inc/widgets/social.php:416
+msgid "Border Radius"
+msgstr ""
+
+#: inc/widgets/social-share.php:381 inc/widgets/social.php:406
+#: inc/widgets/social.php:412 inc/widgets/social.php:418
+msgid "Example:"
+msgstr ""
+
+#: inc/widgets/social-share.php:385
+msgid "Minimal Style: Border Color"
+msgstr ""
+
+#: inc/widgets/social-share.php:390
+msgid "Minimal Style: Background Color"
+msgstr ""
+
+#: inc/widgets/social-share.php:395
+msgid "Minimal Style: Color"
+msgstr ""
+
+#: inc/widgets/social-share.php:400
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/widgets/social-share.php:406
+msgid "Show Social Name"
+msgstr ""
+
+#: inc/widgets/social-share.php:409
+msgid "Social Share"
+msgstr ""
+
+#: inc/widgets/social.php:108
+msgid "&raquo; Social Icons"
+msgstr ""
+
+#: inc/widgets/social.php:111
+msgid "Display your social media icons."
+msgstr ""
+
+#: inc/widgets/social.php:353
+msgid "Follow Us"
+msgstr ""
+
+#: inc/widgets/social.php:355 inc/widgets/social.php:389
+msgid "Rotate"
+msgstr ""
+
+#: inc/widgets/social.php:385
+msgid "Transition:"
+msgstr ""
+
+#: inc/widgets/social.php:388
+msgid "Float"
+msgstr ""
+
+#: inc/widgets/social.php:390
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/widgets/social.php:395
+msgid "Link Target"
+msgstr ""
+
+#: inc/widgets/social.php:404
+msgid "Dimensions"
+msgstr ""
+
+#: inc/widgets/social.php:427
+msgid "Background Color Hover"
+msgstr ""
+
+#: inc/widgets/social.php:437
+msgid "Color Hover"
+msgstr ""
+
+#: inc/widgets/social.php:442
+msgid "Border Color"
+msgstr ""
+
+#: inc/widgets/social.php:447
+msgid "Border Color Hover"
+msgstr ""
+
+#: inc/widgets/tags.php:22
+msgid "&raquo; Tags Cloud"
+msgstr ""
+
+#: inc/widgets/tags.php:25
+msgid "A cloud of your most used tags."
+msgstr ""
+
+#: inc/widgets/tags.php:79
+msgid "Tags"
+msgstr ""
+
+#: inc/widgets/tags.php:270
+msgid ""
+"The tag cloud will not be displayed since there are no taxonomies that "
+"support the tag cloud widget."
+msgstr ""
+
+#: inc/widgets/tags.php:287
+msgid "Taxonomy:"
+msgstr ""
+
+#: inc/widgets/tags.php:304
+msgid "Padding:"
+msgstr ""
+
+#: inc/widgets/tags.php:306
+msgid "top left bottom right, eg: 15px 8px 15px 25px"
+msgstr ""
+
+#: inc/widgets/tags.php:310
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/tags.php:315
+msgid "Background Hover Color:"
+msgstr ""
+
+#: inc/widgets/tags.php:320
+msgid "Link Color:"
+msgstr ""
+
+#: inc/widgets/tags.php:325
+msgid "Link Hover Color:"
+msgstr ""
+
+#: inc/widgets/tags.php:330
+msgid "Border Color:"
+msgstr ""
+
+#: inc/widgets/tags.php:335
+msgid "Border Hover Color:"
+msgstr ""
+
+#: inc/widgets/tags.php:340
+msgid "Font Size (px):"
+msgstr ""
+
+#: inc/widgets/tags.php:345
+msgid "Line Height (px):"
+msgstr ""
+
+#: inc/widgets/tags.php:350
+msgid "Letter Spacing (px):"
+msgstr ""
+
+#: inc/widgets/tags.php:355
+msgid "Text Transform:"
+msgstr ""
+
+#: inc/widgets/twitter.php:19
+msgid "&raquo; Twitter"
+msgstr ""
+
+#: inc/widgets/twitter.php:22
+msgid "Pulls in tweets from your twitter account."
+msgstr ""
+
+#: inc/widgets/twitter.php:76
+msgid "My Tweets"
+msgstr ""
+
+#: inc/widgets/twitter.php:172
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: inc/widgets/twitter.php:187
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/twitter.php:192
+msgid "Width (px):"
+msgstr ""
+
+#: inc/widgets/twitter.php:197
+msgid "Height (px):"
+msgstr ""
+
+#: inc/widgets/twitter.php:202
+msgid "# of Tweets Shown:"
+msgstr ""
+
+#: inc/widgets/twitter.php:207
+msgid "Username:"
+msgstr ""
+
+#: inc/widgets/twitter.php:212
+msgid "Layout Options:"
+msgstr ""
+
+#: inc/widgets/twitter.php:213
+msgid "No Header"
+msgstr ""
+
+#: inc/widgets/twitter.php:214
+msgid "No Footer"
+msgstr ""
+
+#: inc/widgets/twitter.php:215
+msgid "No Borders"
+msgstr ""
+
+#: inc/widgets/twitter.php:216
+msgid "No Scrollbar"
+msgstr ""
+
+#: inc/widgets/twitter.php:217
+msgid "Transparent Background"
+msgstr ""
+
+#: inc/widgets/twitter.php:221
+msgid "Link Color (hex):"
+msgstr ""
+
+#: inc/widgets/twitter.php:226
+msgid "Border Color (hex):"
+msgstr ""
+
+#: inc/widgets/twitter.php:231
+msgid "Timeline Theme:"
+msgstr ""
+
+#: inc/widgets/video.php:22
+msgid "&raquo; Video"
+msgstr ""
+
+#: inc/widgets/video.php:25
+msgid "Easily to display any type of video."
+msgstr ""
+
+#: inc/widgets/video.php:62
+msgid "You forgot to enter a video URL."
+msgstr ""
+
+#: inc/widgets/video.php:106
+msgid "Video"
+msgstr ""
+
+#: inc/widgets/video.php:118
+msgid "Video URL "
+msgstr ""
+
+#: inc/widgets/video.php:120
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: inc/widgets/video.php:120
+msgid "Learn More"
+msgstr ""
+
+#: inc/widgets/video.php:124
+msgid "Description"
+msgstr ""
+
+#: tj-extras.php:182 tj-extras.php:191
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TJ Extras"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.theme-junkie.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add extra features like widgets, metaboxes, and custom Elementor widgets."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Junkie"
+msgstr ""
